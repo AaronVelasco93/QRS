@@ -1,0 +1,2 @@
+# QRS
+aplicacion de QR
